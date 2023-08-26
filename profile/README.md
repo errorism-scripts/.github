@@ -4,6 +4,7 @@
 ## Authors
 - [@Errorismx](https://www.github.com/Errorismx)
 - [@bookbig07](https://www.github.com/bookbig07)
+- [@lolipopkungz](https://github.com/lolipopkungz)
 
 <!--
 
